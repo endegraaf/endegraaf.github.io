@@ -18,8 +18,8 @@ avatar: https://avatars0.githubusercontent.com/u/361011?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: endegraaf@gmail.com
-  github: endegraaf/endegraaf.github.io
-  linkedin: https://www.linkedin.com/in/endegraaf/
+  github: endegraaf
+  linkedin: endegraaf
   rss: # just type anything here for a working RSS icon
   twitter: endegraaf
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
